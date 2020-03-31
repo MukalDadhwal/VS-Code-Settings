@@ -1,0 +1,21 @@
+{
+    "editor.fontSize": 15,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "emmet.includeLanguages": {
+        "html": "html",
+        "javascript": "javascriptreact"
+    },
+
+    "editor.fontFamily": "Hasklig",
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.formatOnPaste": true,
+    "files.trimFinalNewlines": true,
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    // "editor.cursorSmoothCaretAnimation": true,
+    "files.trimTrailingWhitespace": true
+
+}
